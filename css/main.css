@@ -38,6 +38,11 @@ figcaption {
   left: 1em;
   width: 100%;
   max-width: 15em;
-  padding-left: .5rem;
-  padding-bottom: 1rem;
+  padding-left: 1rem;
+  padding-top: 1rem;
+  padding-bottom: .5rem;
+  background-color: rgba(0, 0, 0, .6);
+  color: #fff;
+  border-radius: 4px;
+
 }
